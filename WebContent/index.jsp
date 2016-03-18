@@ -46,5 +46,18 @@
 	<input type="submit" value="upload_submit" ><br> 	
 	</form>
 	你好，我修改一下bug
+	<table>
+		<tr>
+			<td>1</td>
+			<td>2</td>
+			<td>3</td>
+			<td>4</td>
+			<td>5</td>
+		</tr>
+	
+	
+	
+	</table>
+
 </body>
 </html>
