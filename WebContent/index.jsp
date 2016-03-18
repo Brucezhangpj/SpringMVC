@@ -37,13 +37,13 @@
 		file:<input type="file" name="file" value=""><br>
 		name:<input type="text" name="name" value="jack"><br>
 		password:<input type="password" name="password" value="123456"><br>
-		<input type="submit" value="@RequestBody">
+		<input type="submit" value="submit">
 	</form>
 	testUpload:<form action="${pageContext.request.contextPath }/testUpload" method="post" enctype="multipart/form-data">
 		file1:<input type="file" name="file" value="" ><br>
 		file2:<input type="file" name="file" value=""><br>
 		file3:<input type="file" name="file" value=""><br>
-	<input type="submit" value="upload_submit" ><br> 	
+	<input type="submit" value="submit" ><br> 	
 	</form>
 	你好，我修改一下bug
 	<table>
