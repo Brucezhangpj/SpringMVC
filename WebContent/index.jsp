@@ -45,6 +45,6 @@
 		file3:<input type="file" name="file" value=""><br>
 	<input type="submit" value="upload_submit" ><br> 	
 	</form>
-	
+	你好，我修改一下bug
 </body>
 </html>
