@@ -44,20 +44,6 @@
 		file2:<input type="file" name="file" value=""><br>
 		file3:<input type="file" name="file" value=""><br>
 	<input type="submit" value="submit" ><br> 	
-	</form>
-	你好，我修改一下bug
-	<table>
-		<tr>
-			<td>1</td>
-			<td>2</td>
-			<td>3</td>
-			<td>4</td>
-			<td>5</td>
-		</tr>
-	
-	
-	
-	</table>
-
+	</form>	
 </body>
 </html>
